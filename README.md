@@ -6,6 +6,6 @@
     <meta http-equiv="refresh" content="0; url=GUGLIELMO CSTR TESINA.pdf">
   </head>
   <body>
-    <p>Reindirizzamento alla tesina... <a href="GUGLIELMO CSTR TESINA.pdf">Clicca qui se non parte</a>.</p>
+    <p>Redirecting to the paper... <a href="GUGLIELMO CSTR TESINA.pdf">Click here </a>.</p>
   </body>
 </html>
