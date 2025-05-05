@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Guglielmo - Tesina CSTR</title>
     <meta http-equiv="refresh" content="0; url=GUGLIELMO CSTR TESINA.pdf">
   </head>
   <body>
